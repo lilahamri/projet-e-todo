@@ -1,0 +1,26 @@
+{
+  "name": "b-web-101-mar-1-1-etodo-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechBachelorPromo2028/B-WEB-101-MAR-1-1-etodo-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechBachelorPromo2028/B-WEB-101-MAR-1-1-etodo-6/issues"
+  },
+  "homepage": "https://github.com/EpitechBachelorPromo2028/B-WEB-101-MAR-1-1-etodo-6#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "description": ""
+}
